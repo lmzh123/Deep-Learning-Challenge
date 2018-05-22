@@ -1,1 +1,1 @@
-# German-Traffic-Signs-Detector
+# German Traffic Signs Detector

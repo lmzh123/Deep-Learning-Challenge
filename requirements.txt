@@ -1,0 +1,7 @@
+click
+urllib
+zipfile
+numpy
+OpenCV
+Scikit Learn
+Tensorflow
